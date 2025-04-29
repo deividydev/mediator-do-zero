@@ -25,3 +25,20 @@ Essa implementação foi desenvolvida como uma solução simples e flexível par
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
+2. **Compile o projeto**:
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+3. **Rode o projeto console**:
+
+   ```bash
+   cd Mediator.Salmple
+   dotnet run
+
+3. **Rode os testes**:
+
+   ```bash
+   cd Mediator.Tests
+   dotnet test
+
