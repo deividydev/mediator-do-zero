@@ -33,7 +33,7 @@ Essa implementação foi desenvolvida como uma solução simples e flexível par
 3. **Rode o projeto console**:
 
    ```bash
-   cd Mediator.Salmple
+   cd Mediator.Samples
    dotnet run
 
 3. **Rode os testes**:
