@@ -42,3 +42,7 @@ Essa implementação foi desenvolvida como uma solução simples e flexível par
    cd Mediator.Tests
    dotnet test
 
+## Autor
+
+Desenvolvido por Deividy Henrique Alves Pinheiro.
+
